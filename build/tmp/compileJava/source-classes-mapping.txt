@@ -1,0 +1,58 @@
+utils/SessionFactory.java
+ utils.SessionFactory
+com/management/system/controller/ImageController.java
+ com.management.system.controller.ImageController
+com/management/system/model/Teacher.java
+ com.management.system.model.Teacher
+com/management/system/model/Student.java
+ com.management.system.model.Student
+com/management/system/service/TeacherServiceManager.java
+ com.management.system.service.TeacherServiceManager
+com/management/system/service/TeacherService.java
+ com.management.system.service.TeacherService
+com/management/system/repo/SubmitRepoManager.java
+ com.management.system.repo.SubmitRepoManager
+com/management/system/repo/AssignmentRepoManager.java
+ com.management.system.repo.AssignmentRepoManager
+com/management/system/repo/TeacherRepo.java
+ com.management.system.repo.TeacherRepo
+com/management/system/repo/SubmitRepo.java
+ com.management.system.repo.SubmitRepo
+com/management/system/repo/AssignmentRepo.java
+ com.management.system.repo.AssignmentRepo
+com/management/system/service/SubmitServiceManager.java
+ com.management.system.service.SubmitServiceManager
+com/management/system/model/Submit.java
+ com.management.system.model.Submit
+com/management/system/service/SubmitService.java
+ com.management.system.service.SubmitService
+com/management/system/model/Assignment.java
+ com.management.system.model.Assignment
+com/management/system/service/AssignmentService.java
+ com.management.system.service.AssignmentService
+com/management/system/controller/SubmitController.java
+ com.management.system.controller.SubmitController
+com/management/system/service/AssignmentServiceManager.java
+ com.management.system.service.AssignmentServiceManager
+com/management/system/repo/TeacherRepoManager.java
+ com.management.system.repo.TeacherRepoManager
+com/management/system/controller/AssignmentController.java
+ com.management.system.controller.AssignmentController
+com/management/system/service/StudentService.java
+ com.management.system.service.StudentService
+com/management/system/service/StudentServiceManger.java
+ com.management.system.service.StudentServiceManger
+com/management/system/controller/TeacherController.java
+ com.management.system.controller.TeacherController
+com/management/system/controller/StudentController.java
+ com.management.system.controller.StudentController
+utils/ServiceFactory.java
+ utils.ServiceFactory
+com/management/system/Entry.java
+ com.management.system.Entry
+com/management/system/repo/StudentRepoManager.java
+ com.management.system.repo.StudentRepoManager
+com/management/system/repo/StudentRepo.java
+ com.management.system.repo.StudentRepo
+com/management/system/model/ErrorRes.java
+ com.management.system.model.ErrorRes
